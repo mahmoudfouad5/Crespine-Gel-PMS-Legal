@@ -2,7 +2,7 @@
 
 ## How to Request Account Deletion
 
-Users can request account deletion directly from داخل التطبيق باستخدام خيار **Delete account** الموجود في صفحة **Profile**.
+Users can request account deletion directly from within the app using the **Delete account** option available on the **Profile** screen.
 
 Steps:
 
