@@ -31,6 +31,24 @@ We ensure that:
 - Information is not used for public or commercial advertising purposes.
 - Policies may be updated and users will be notified when required.
 
+## Data Retention
+
+- Data is retained only for as long as needed to support the app's internal operational workflow, reporting history, audit needs, and record traceability.
+- The retention period may vary depending on the type of record and operational or legal requirements applicable to the organization using the app.
+- Some records may remain stored after account deletion if they are required for audit, compliance, reporting history, or operational continuity.
+
+## Account Deletion and Data Deletion
+
+- Users can request account deletion from within the app using the **Delete account** option on the **Profile** screen.
+- When account deletion is completed, the user's authentication access is removed and active access to the app is revoked.
+- Some associated records may be retained in the database for operational, audit, traceability, or record-keeping purposes, including doctor profile records, hospital associations, patient records, submitted reports, and deletion logs.
+- If users need help regarding account deletion, they should contact the app operator or the organization that provided their access.
+
+## Public Deletion Instructions
+
+- Public account deletion instructions are available here:
+  `https://github.com/mahmoudfouad5/Crespine-Gel-PMS-Legal/blob/main/docs/legal/DELETE_ACCOUNT.md`
+
 ## Clarification
 
 This application is:
