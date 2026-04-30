@@ -2,57 +2,58 @@
 
 ## Overview
 
-The application may collect and store limited information necessary for operational functionality, including:
+Crespine Gel PMS is a platform designed for healthcare professionals, including doctors, clinics, and medical field users worldwide. The application may collect and store limited information necessary to provide its services.
 
-- User account identity, role, and contact details.
-- Doctor and hospital-related records.
-- Patient identifiers and reporting workflow data.
+This may include:
+
+- User account information such as name, email, role, and contact details.
+- Professional data such as doctor and hospital-related records.
+- Reporting and workflow-related data entered by users.
+- Limited patient-related identifiers where required for reporting purposes.
 
 ## How Information Is Used
 
-This information is used strictly for:
+The collected information is used to:
 
-- Supporting reporting workflows.
-- Providing role-based access to relevant data.
-- Ensuring traceability and operational visibility.
+- Provide and maintain the application's core functionality.
+- Support reporting workflows and data management features.
+- Enable role-based access to relevant information.
+- Ensure traceability, auditing, and operational visibility.
 
 ## Access Control
 
-Access to data is controlled by:
+Access to data is controlled through:
 
-- User role and permissions.
-- Secure authentication within the application.
+- Secure user authentication.
+- Role-based permissions that limit access to relevant data only.
 
 ## Data Handling
 
-We ensure that:
+We are committed to responsible data handling:
 
-- Data is handled responsibly and used only within the defined workflow.
-- Information is not used for public or commercial advertising purposes.
-- Policies may be updated and users will be notified when required.
+- Data is used strictly to provide app functionality and improve user experience.
+- Information is not sold or used for third-party advertising.
+- Data is processed in accordance with applicable laws and regulations.
 
 ## Data Retention
 
-- Data is retained only for as long as needed to support the app's internal operational workflow, reporting history, audit needs, and record traceability.
-- The retention period may vary depending on the type of record and operational or legal requirements applicable to the organization using the app.
-- Some records may remain stored after account deletion if they are required for audit, compliance, reporting history, or operational continuity.
+- Data is retained only as long as necessary to provide services, maintain reporting history, and support audit or legal requirements.
+- Retention periods may vary depending on the nature of the data and applicable regulations.
+- Some records may be retained after account deletion where required for compliance, audit, or operational continuity.
 
 ## Account Deletion and Data Deletion
 
-- Users can request account deletion from within the app using the **Delete account** option on the **Profile** screen.
-- When account deletion is completed, the user's authentication access is removed and active access to the app is revoked.
-- Some associated records may be retained in the database for operational, audit, traceability, or record-keeping purposes, including doctor profile records, hospital associations, patient records, submitted reports, and deletion logs.
-- If users need help regarding account deletion, they should contact the app operator or the organization that provided their access.
+- Users can request account deletion from within the app using the **Delete Account** option in the Profile section.
+- Upon deletion, access to the account is revoked.
+- Certain records may be retained for audit, compliance, or legal purposes, including submitted reports and system logs.
 
 ## Public Deletion Instructions
 
-- Public account deletion instructions are available here:
-  `https://github.com/mahmoudfouad5/Crespine-Gel-PMS-Legal/blob/main/docs/legal/DELETE_ACCOUNT.md`
+Users can find detailed instructions here:  
+https://github.com/mahmoudfouad5/Crespine-Gel-PMS-Legal/blob/main/docs/legal/DELETE_ACCOUNT.md
 
 ## Clarification
 
-This application is:
-
-- Not a public consumer-facing app.
-- Not intended for general medical use or patient self-management.
-- Strictly designed for internal and professional operational use.
+- This application is available to healthcare professionals worldwide.
+- It is intended for professional workflow management and reporting.
+- It does not provide medical advice and does not replace clinical judgment.
