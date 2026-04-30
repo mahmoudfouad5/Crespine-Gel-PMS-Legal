@@ -19,11 +19,11 @@ When account deletion is completed:
 
 - Your authentication account is removed from the sign-in system.
 - Your active access to the application is revoked.
-- Associated login/session access is removed from the device.
+- Associated login and session access is removed from the device.
 
 ## What Data May Be Kept
 
-Some data may be retained in the database for operational, audit, traceability, or record-keeping purposes, including:
+Some data may be retained in the database for operational, audit, traceability, legal, or record-keeping purposes, including:
 
 - doctor profile records
 - hospital associations
@@ -33,8 +33,8 @@ Some data may be retained in the database for operational, audit, traceability, 
 
 ## Retention Clarification
 
-Retained records are kept only as part of the application's internal operational workflow and history tracking. They are not kept for advertising purposes.
+Retained records are kept only as needed to maintain reporting history, operational traceability, compliance, or legal obligations. They are not retained for advertising purposes.
 
 ## Contact
 
-If you need additional help regarding account deletion, contact the app operator or the organization that provided your access to Crespine Gel PMS.
+If you need additional help regarding account deletion, contact the app support team or the operator responsible for Crespine Gel PMS.
