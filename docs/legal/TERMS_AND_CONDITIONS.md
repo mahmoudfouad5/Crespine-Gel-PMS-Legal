@@ -2,23 +2,26 @@
 
 ## Overview
 
-Crespine Gel PMS is a general-purpose platform designed for healthcare professionals, including doctors, clinics, and medical field teams worldwide.
+Crespine Gel PMS is a professional platform intended for licensed doctors and qualified healthcare professionals who use Crespine Gel+ in clinical practice.
 
 The application provides tools for:
 
 - Managing professional records.
 - Supporting reporting workflows.
 - Organizing operational and healthcare-related data.
+- Preparing and submitting product-related PMS reports.
 
 ## Eligibility
 
-- The app is available to any healthcare professional or organization that registers an account.
-- Users are responsible for ensuring that the information they provide is accurate and appropriate.
+- The app is available to licensed doctors and qualified healthcare professionals who use Crespine Gel+ and complete account registration.
+- Clinics and hospitals may also use the app through their authorized professional users.
+- Users are responsible for ensuring that the information they provide is accurate, lawful, and professionally appropriate.
 
 ## Important Notes
 
 - The application does not provide medical advice and does not replace clinical judgment, diagnosis, or treatment decisions.
 - The app is intended as a support tool for professional workflows only.
+- The app is not intended for patient self-use or general consumer medical use.
 
 ## Acceptable Use
 
@@ -30,13 +33,13 @@ Users agree to:
 
 ## Access and Accounts
 
-- Users can create an account directly within the app.
+- Eligible professional users can create an account directly within the app using mobile number verification and required professional profile details.
 - Access to certain features may depend on user roles and permissions.
 - Users are responsible for all activities conducted under their accounts.
 
 ## Scope of Use
 
-- The app is publicly available and can be used by healthcare professionals worldwide.
+- The app is publicly distributable and intended for use by licensed doctors and qualified healthcare professionals who use Crespine Gel+.
 - It is not restricted to any specific company or organization.
 - It is not intended for patient self-management or general consumer medical use.
 
