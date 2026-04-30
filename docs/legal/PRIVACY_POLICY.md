@@ -2,7 +2,7 @@
 
 ## Overview
 
-Crespine Gel PMS is a platform designed for healthcare professionals, including doctors, clinics, and medical field users worldwide. The application may collect and store limited information necessary to provide its services.
+Crespine Gel PMS is a professional platform for licensed doctors and qualified healthcare professionals who use Crespine Gel+ in practice. The application may collect and store limited information necessary to provide its services.
 
 This may include:
 
@@ -17,6 +17,7 @@ The collected information is used to:
 
 - Provide and maintain the application's core functionality.
 - Support reporting workflows and data management features.
+- Support preparation, submission, and follow-up of product-related PMS reports.
 - Enable role-based access to relevant information.
 - Ensure traceability, auditing, and operational visibility.
 
@@ -54,6 +55,6 @@ https://github.com/mahmoudfouad5/Crespine-Gel-PMS-Legal/blob/main/docs/legal/DEL
 
 ## Clarification
 
-- This application is available to healthcare professionals worldwide.
-- It is intended for professional workflow management and reporting.
+- This application is available to licensed doctors and qualified healthcare professionals who use Crespine Gel+.
+- It is intended for professional workflow management, reporting, and PMS documentation.
 - It does not provide medical advice and does not replace clinical judgment.
