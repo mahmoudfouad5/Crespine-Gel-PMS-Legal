@@ -2,29 +2,45 @@
 
 ## Overview
 
-The application is intended to:
+Crespine Gel PMS is a general-purpose platform designed for healthcare professionals, including doctors, clinics, and medical field teams worldwide.
 
-- Support internal reporting and record management within a controlled workflow environment.
-- Assist authorized users in managing operational data.
+The application provides tools for:
+
+- Managing professional records.
+- Supporting reporting workflows.
+- Organizing operational and healthcare-related data.
+
+## Eligibility
+
+- The app is available to any healthcare professional or organization that registers an account.
+- Users are responsible for ensuring that the information they provide is accurate and appropriate.
 
 ## Important Notes
 
-- The application does not replace clinical judgment, diagnosis, or medical decision-making.
-- Access and usage are restricted based on user roles and permissions.
-- Users are responsible for ensuring the accuracy and validity of all entered data.
+- The application does not provide medical advice and does not replace clinical judgment, diagnosis, or treatment decisions.
+- The app is intended as a support tool for professional workflows only.
 
 ## Acceptable Use
 
-- The application must not be misused, reverse engineered, or accessed without authorization.
-- All usage must comply with applicable laws, regulations, and internal policies.
+Users agree to:
+
+- Use the app in compliance with applicable laws and regulations.
+- Not misuse, reverse engineer, or attempt unauthorized access to the system.
+- Maintain the confidentiality of their login credentials.
+
+## Access and Accounts
+
+- Users can create an account directly within the app.
+- Access to certain features may depend on user roles and permissions.
+- Users are responsible for all activities conducted under their accounts.
 
 ## Scope of Use
 
-- This application is designed for internal and professional operational use only.
-- It is not intended to function as a public consumer-facing application.
-- It is not intended for general medical use or patient self-management.
+- The app is publicly available and can be used by healthcare professionals worldwide.
+- It is not restricted to any specific company or organization.
+- It is not intended for patient self-management or general consumer medical use.
 
 ## Updates
 
-- These Terms & Conditions may be updated from time to time to reflect operational, legal, or product changes.
-- Continued use of the application after updates may be treated as acceptance of the revised terms where permitted by law.
+- These Terms & Conditions may be updated periodically.
+- Continued use of the app after updates constitutes acceptance of the revised terms where permitted by law.
